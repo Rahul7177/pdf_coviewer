@@ -1,0 +1,14 @@
+.pdf-viewer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .controls, .admin-controls, .viewer-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  button {
+    margin: 0 5px;
+  }
+  
